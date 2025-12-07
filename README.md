@@ -23,7 +23,6 @@ Proyecto final del curso de **Redes Neuronales** - Facultad de Ciencias, UNAM
 - [Uso](#-uso)
 - [Dataset](#-dataset)
 - [Entrenamiento](#-entrenamiento)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Requisitos del Proyecto](#-requisitos-del-proyecto)
 
 ---
