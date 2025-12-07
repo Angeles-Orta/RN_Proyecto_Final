@@ -295,6 +295,9 @@ Tokenizada: [12, 23, 45, 789, 2]
 Padded: [12, 23, 45, 789, 2, 0, 0, 0, ..., 0]  # Hasta 256
 ```
 
+**Link del dataset para descargar:**
+Puedes descargar el dataset desde [IMDB Dataset of 50K Movie Reviews en Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+
 ---
 
 ## 🏋️ Entrenamiento
